@@ -1,1 +1,3 @@
 # leetcode-my-solutions
+
+Code and testcases in this repository is compatible with [LeetCode vscode extension](https://github.com/LeetCode-OpenSource/vscode-leetcode)
